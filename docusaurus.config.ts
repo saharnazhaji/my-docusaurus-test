@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://Somaye-sys.github.io',
+  url: 'https://saharnazhaji.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/github-usaurus-50hz-1/',
+  baseUrl: '/my-docusaurus-test/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Somaye-sys', // Usually your GitHub org/user name.
-  projectName: 'github-usaurus-50hz-1', // Usually your repo name.
+  organizationName: 'saharnazhaji', // Usually your GitHub org/user name.
+  projectName: 'my-docusaurus-test', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Somaye-sys/github-usaurus-50hz-1/',
+            'https://github.com/saharnazhaji/my-docusaurus-test/',
         },
         blog: {
           showReadingTime: true,
@@ -86,7 +86,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Somaye-sys/github-usaurus-50hz-1',
+          href: 'https://github.com/saharnazhaji/my-docusaurus-test',
           label: 'GitHub',
           position: 'right',
         },
@@ -126,7 +126,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Somaye-sys/github-usaurus-50hz-1/',
+              href: 'https://github.com/saharnazhaji/my-docusaurus-test',
             },
           ],
         },
